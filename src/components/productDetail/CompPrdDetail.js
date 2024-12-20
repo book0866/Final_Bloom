@@ -148,6 +148,7 @@ const CompPrdDetail = () => {
     }
   };
 
+  
   return (
     <div className="product-container">
       <section className="detail-top">
